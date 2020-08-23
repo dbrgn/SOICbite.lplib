@@ -1,0 +1,10 @@
+(librepcb_library f545f586-4e01-4e70-a01d-99cf15860a5d
+ (name "SOICbite")
+ (description "A compact PCB debug connector footprint")
+ (keywords "")
+ (author "Danilo Bargen")
+ (version "0.1")
+ (created 2020-08-23T21:00:34Z)
+ (deprecated false)
+ (url "")
+)
